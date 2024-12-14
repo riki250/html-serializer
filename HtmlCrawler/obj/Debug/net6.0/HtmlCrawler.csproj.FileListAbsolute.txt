@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\פרקטיקוד 2\HtmlCrawler\HtmlCrawler\obj\Debug\net6.0\HtmlCrawler.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\פרקטיקוד 2\HtmlCrawler\HtmlCrawler\obj\Debug\net6.0\HtmlCrawler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\פרקטיקוד 2\HtmlCrawler\HtmlCrawler\obj\Debug\net6.0\HtmlCrawler.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\פרקטיקוד 2\HtmlCrawler\HtmlCrawler\obj\Debug\net6.0\HtmlCrawler.AssemblyInfo.cs
+C:\Users\user\Desktop\פרקטיקוד 2\HtmlCrawler\HtmlCrawler\obj\Debug\net6.0\HtmlCrawler.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\פרקטיקוד 2\HtmlCrawler\HtmlCrawler\bin\Debug\net6.0\HtmlCrawler.exe
+C:\Users\user\Desktop\פרקטיקוד 2\HtmlCrawler\HtmlCrawler\bin\Debug\net6.0\HtmlCrawler.deps.json
+C:\Users\user\Desktop\פרקטיקוד 2\HtmlCrawler\HtmlCrawler\bin\Debug\net6.0\HtmlCrawler.runtimeconfig.json
+C:\Users\user\Desktop\פרקטיקוד 2\HtmlCrawler\HtmlCrawler\bin\Debug\net6.0\HtmlCrawler.dll
+C:\Users\user\Desktop\פרקטיקוד 2\HtmlCrawler\HtmlCrawler\bin\Debug\net6.0\HtmlCrawler.pdb
+C:\Users\user\Desktop\פרקטיקוד 2\HtmlCrawler\HtmlCrawler\obj\Debug\net6.0\HtmlCrawler.dll
+C:\Users\user\Desktop\פרקטיקוד 2\HtmlCrawler\HtmlCrawler\obj\Debug\net6.0\refint\HtmlCrawler.dll
+C:\Users\user\Desktop\פרקטיקוד 2\HtmlCrawler\HtmlCrawler\obj\Debug\net6.0\HtmlCrawler.pdb
+C:\Users\user\Desktop\פרקטיקוד 2\HtmlCrawler\HtmlCrawler\obj\Debug\net6.0\HtmlCrawler.genruntimeconfig.cache
+C:\Users\user\Desktop\פרקטיקוד 2\HtmlCrawler\HtmlCrawler\obj\Debug\net6.0\ref\HtmlCrawler.dll
